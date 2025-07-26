@@ -1,3 +1,4 @@
+#model steps to match faces encodings to realtime face encoding may inspired by 3-4 tutorials as tried to use best prectices here
 import face_recognition as f
 import cv2
 import numpy as np
